@@ -214,7 +214,7 @@ public void keyReleased(){
  */
 public void showScore(String playerName, int playerScore, int scoreCounter, int x, int y){
   textSize(18);
-  text(playerName + "player's Score: " + playerScore, 15, 290 + (scoreCounter*40));
+  text(playerName + " player's Score: " + playerScore, 15, 290 + (scoreCounter*40));
 }
 
 public void beep(){
