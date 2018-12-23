@@ -24,11 +24,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hizvEXjqtmgzrDKaxkHQOBMv9cY=
+			2ceSxxCLY1WOlvxz892zB13rIN8=
 			</data>
 			<key>hash2</key>
 			<data>
-			ohEe7Y+Ekmm3U/icdnWfVEMjU6mclo7h6qUQDI63pto=
+			jegeVMzz4f4B4fALmHjOqrvLfriR7AV5lIfotd7TDmA=
 			</data>
 		</dict>
 		<key>Java/core.jar</key>
@@ -85,15 +85,6 @@
 			<data>
 			8DGHeAWweOyA52Xi42L9DNxNqNcJ/kJLOlkwA/4QT7Y=
 			</data>
-		</dict>
-		<key>PlugIns/jdk1.7.0_55.jdk</key>
-		<dict>
-			<key>cdhash</key>
-			<data>
-			hD7d92W//OczkhPPJF2IrfBejnk=
-			</data>
-			<key>requirement</key>
-			<string>identifier "com.oracle.java.7u55.jdk" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "8SBRM6J77J"</string>
 		</dict>
 		<key>Resources/en.lproj/Localizable.strings</key>
 		<dict>
